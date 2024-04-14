@@ -1,0 +1,401 @@
+,board_sizes,binary_space,fitness_function,penalty_function,num_particles,c1,c2,inertia,max_velocity,min_velocity,fitness_evals,fitness_values,num_knights,num_covered_squares,solutions,algorithm
+0,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+1,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+2,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+3,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+4,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+5,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+6,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+7,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+8,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+9,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,7,5,15,[1 1 0 0 1 1 0 0 1 0 0 0 0 0 0 0],PSO
+1000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+1009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,16,[1 1 0 1 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+2000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+2009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,7,3,13,[0 0 0 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+3000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+3009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,16,[0 1 0 0 0 1 1 0 0 1 0 0 0 1 1 0],PSO
+4000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+4009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,16,[1 0 0 0 0 1 0 0 1 1 1 1 0 0 0 0],PSO
+5000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+5009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+6000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+6009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,16,[0 0 1 0 1 0 1 1 0 0 1 1 0 0 0 0],PSO
+7000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+7009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,16,[0 0 0 1 0 0 0 0 1 1 0 0 1 1 1 0],PSO
+8000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+8009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,5,5,16,[0 1 1 0 1 1 1 0 0 0 0 0 0 0 0 0],PSO
+9000,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9001,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9002,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9003,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9004,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9005,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9006,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9007,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9008,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+9009,4,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,16,[0 0 0 1 0 0 1 1 1 0 1 1 0 0 0 0],PSO
+10000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+10009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,16,[1 1 0 0 0 0 1 1 0 0 1 1 0 0 0 0],PSO
+11000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[0 0 0 0 1 1 1 0 0 1 1 0 0 0 1 0],PSO
+11001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[0 0 0 0 1 1 1 0 0 1 1 0 0 0 1 0],PSO
+11002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[0 0 0 0 1 1 1 0 0 1 1 0 0 0 1 0],PSO
+11003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[0 0 0 0 1 1 1 0 0 1 1 0 0 0 1 0],PSO
+11004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,4,4,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+11005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,4,4,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+11006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,4,4,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+11007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,4,4,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+11008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,4,4,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+11009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,4,4,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+12000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,7,4,14,[1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0],PSO
+12001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,7,4,14,[1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0],PSO
+12002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,7,4,14,[1 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0],PSO
+12003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[1 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0],PSO
+12004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[1 0 0 0 0 0 1 1 0 0 1 1 1 0 0 0],PSO
+12005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,5,5,16,[0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0],PSO
+12006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,5,5,16,[0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0],PSO
+12007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,5,5,16,[0 0 0 0 0 1 1 0 0 1 1 1 0 0 0 0],PSO
+12008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,4,4,16,[0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0],PSO
+12009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,4,4,16,[0 0 0 0 0 1 1 0 0 1 1 0 0 0 0 0],PSO
+13000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,7,5,15,[0 0 1 0 0 1 1 1 0 1 0 0 0 0 0 0],PSO
+13001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+13009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,5,5,16,[0 1 0 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+14000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+14009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,5,5,16,[0 1 1 0 0 1 1 0 0 0 0 0 0 0 0 1],PSO
+15000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[0 0 1 0 1 1 0 0 1 1 0 1 0 0 0 0],PSO
+15001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[0 0 1 0 1 1 0 0 1 1 0 1 0 0 0 0],PSO
+15002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+15003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+15004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+15005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+15006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+15007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+15008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+15009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,5,5,16,[0 0 0 0 1 1 0 0 1 1 0 0 1 0 0 0],PSO
+16000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+16001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+16002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+16003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,5,5,16,[0 0 1 0 0 0 1 0 0 1 1 0 0 0 1 0],PSO
+16004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,4,4,16,[0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+16005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,4,4,16,[0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+16006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,4,4,16,[0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+16007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,4,4,16,[0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+16008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,4,4,16,[0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+16009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,4,4,16,[0 0 1 0 0 0 1 0 0 0 1 0 0 0 1 0],PSO
+17000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,5,5,16,[0 0 0 0 1 1 1 1 0 1 0 0 0 0 0 0],PSO
+17001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,5,5,16,[0 0 0 0 1 1 1 1 0 1 0 0 0 0 0 0],PSO
+17002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 0 0 0 1 1 1 1 0 1 0 0 0 0 0 0],PSO
+17003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+17004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+17005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+17006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+17007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+17008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+17009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+18000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[1 0 0 0 1 0 1 0 0 0 1 1 0 0 1 0],PSO
+18001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,5,5,16,[0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+18002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,5,5,16,[0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+18003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,5,5,16,[0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+18004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,5,5,16,[0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+18005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,5,5,16,[0 1 1 1 0 1 1 0 0 0 0 0 0 0 0 0],PSO
+18006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+18007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+18008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+18009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,4,4,16,[0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0],PSO
+19000,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,16,[0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0],PSO
+19001,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,16,[0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0],PSO
+19002,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,16,[0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0],PSO
+19003,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,16,[0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0],PSO
+19004,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,16,[0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0],PSO
+19005,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,16,[0 0 0 1 0 0 1 1 0 0 1 1 0 0 1 0],PSO
+19006,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,4,15,[0 1 0 0 1 1 0 0 0 1 0 0 0 0 0 0],PSO
+19007,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,5,5,16,[0 0 1 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+19008,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,5,5,16,[0 0 1 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+19009,4,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,5,5,16,[0 0 1 0 1 1 0 0 1 1 0 0 0 0 0 0],PSO
+20000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+20009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,11,11,25,[0 1 1 1 1 0 0 0 1 0 0 1 0 1 1 1 0 0 1 0 0 0 0 1 0],PSO
+21000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+21009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,9,9,25,[0 1 1 1 0 0 0 1 0 1 0 1 1 0 0 0 0 0 0 1 0 0 0 0 1],PSO
+22000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+22009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,10,10,25,[1 0 0 1 0 1 1 1 1 0 0 0 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+23000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+23009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,10,10,25,[0 0 0 1 1 1 0 1 1 1 0 1 1 0 0 0 0 1 0 0 0 0 0 0 1],PSO
+24000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+24009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,8,8,25,[0 1 1 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1 0 1 0 0 1 0],PSO
+25000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+25009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,10,10,25,[0 0 0 1 0 1 0 0 0 0 1 1 1 1 0 1 0 0 0 1 0 1 1 0 0],PSO
+26000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+26009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,11,11,25,[1 0 1 0 0 1 1 1 0 0 0 0 1 1 0 0 0 1 0 1 0 0 1 1 0],PSO
+27000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+27009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,10,7,23,[1 0 1 0 0 0 0 0 0 0 1 1 1 0 0 1 0 0 0 0 0 0 0 1 0],PSO
+28000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+28009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,10,10,25,[1 1 1 1 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1 1],PSO
+29000,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,0,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29001,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,100,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29002,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,200,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29003,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29004,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,400,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29005,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,500,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29006,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,600,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29007,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,700,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29008,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,800,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+29009,5,True,fitness_space_pso_paper,,100,1,1,1,4,-4,900,9,9,25,[0 1 0 0 0 1 1 1 0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1],PSO
+30000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,9,9,25,[0 1 0 0 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 0 1],PSO
+30001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,9,9,25,[0 1 0 0 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 0 1],PSO
+30002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,9,9,25,[0 1 0 0 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 0 1],PSO
+30003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,9,25,[0 1 0 0 1 0 0 1 0 0 0 1 1 1 0 1 0 0 0 0 0 0 1 0 1],PSO
+30004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,8,8,25,[1 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 1 0],PSO
+30005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,8,8,25,[1 0 1 0 1 0 0 0 0 0 0 1 1 0 0 0 0 1 0 0 0 1 0 1 0],PSO
+30006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,8,6,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0],PSO
+30007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,8,6,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0],PSO
+30008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,8,6,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0],PSO
+30009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,8,6,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 0 1 0 1 0 0 0 0 0 0 0],PSO
+31000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,9,7,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1],PSO
+31001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,9,7,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1],PSO
+31002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,9,7,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1],PSO
+31003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,7,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1],PSO
+31004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,9,7,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 1 0 0 0 0 0 0 1],PSO
+31005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,8,6,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0],PSO
+31006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,8,6,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0],PSO
+31007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,8,6,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0],PSO
+31008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,8,6,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0],PSO
+31009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,8,6,24,[0 0 0 1 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 1 0 0 0],PSO
+32000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,10,8,24,[0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 1 0 1 0],PSO
+32001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,10,8,24,[0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 1 0 1 0],PSO
+32002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,10,8,24,[0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 1 0 1 0],PSO
+32003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,10,8,24,[0 0 0 0 0 1 0 1 0 0 0 0 1 0 0 0 1 1 1 0 0 1 0 1 0],PSO
+32004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,8,6,24,[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1],PSO
+32005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,8,6,24,[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 1 0 0 0 1 0 0 0 1],PSO
+32006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,7,5,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0],PSO
+32007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,7,5,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0],PSO
+32008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,7,5,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0],PSO
+32009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,7,5,24,[0 0 0 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0],PSO
+33000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,9,7,24,[0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0],PSO
+33001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,9,7,24,[0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0],PSO
+33002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,9,7,24,[0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0],PSO
+33003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,7,24,[0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0],PSO
+33004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,9,7,24,[0 0 1 0 0 0 1 1 1 0 0 0 0 0 0 1 0 1 0 0 0 1 0 0 0],PSO
+33005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,8,6,24,[0 1 0 1 0 0 0 1 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+33006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,7,7,25,[1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0],PSO
+33007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,7,7,25,[1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0],PSO
+33008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,7,7,25,[1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0],PSO
+33009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,7,7,25,[1 0 0 1 0 0 0 0 1 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0],PSO
+34000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+34009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,25,[0 0 0 0 1 0 0 1 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 0 0],PSO
+35000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,8,6,24,[0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0],PSO
+35001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,8,6,24,[0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0],PSO
+35002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,8,6,24,[0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0],PSO
+35003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,8,6,24,[0 0 0 0 0 1 0 1 0 0 0 1 1 0 0 0 0 1 0 0 1 0 0 0 0],PSO
+35004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,7,7,25,[0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0],PSO
+35005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,7,7,25,[0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0],PSO
+35006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,7,7,25,[0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0],PSO
+35007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,7,7,25,[0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0],PSO
+35008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,7,7,25,[0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0],PSO
+35009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,7,7,25,[0 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 0 0 0 0 0 0],PSO
+36000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+36009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,6,25,[0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 0 1 0 0 0 0 0 0 0],PSO
+37000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,10,8,24,[0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+37001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,10,8,24,[0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+37002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,10,8,24,[0 0 0 0 0 1 1 0 0 0 1 1 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+37003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,9,25,[0 0 0 0 1 1 0 1 0 0 0 1 1 1 0 0 1 0 1 0 1 0 0 0 0],PSO
+37004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,9,7,24,[0 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 1 1],PSO
+37005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,8,6,24,[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 1 0 0 0 0],PSO
+37006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,7,7,25,[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1],PSO
+37007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,7,7,25,[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1],PSO
+37008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,7,7,25,[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1],PSO
+37009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,7,7,25,[0 0 0 0 0 0 0 1 0 0 0 1 1 0 0 0 0 1 0 1 0 0 0 1 1],PSO
+38000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,9,6,23,[0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 1 1],PSO
+38008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,6,4,24,[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0],PSO
+38009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,6,4,24,[0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1 0 0 0 0 0 0 0],PSO
+39000,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,0,9,6,23,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0],PSO
+39001,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,100,9,6,23,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0],PSO
+39002,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,200,9,6,23,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0],PSO
+39003,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,300,9,6,23,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0],PSO
+39004,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,400,9,7,24,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0],PSO
+39005,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,500,9,7,24,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0],PSO
+39006,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,600,9,7,24,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0],PSO
+39007,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,700,9,7,24,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0],PSO
+39008,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,800,9,7,24,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0],PSO
+39009,5,False,fitness_space_pso_paper,,100,1,1,1,4,-4,900,9,7,24,[1 0 0 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1 0],PSO
