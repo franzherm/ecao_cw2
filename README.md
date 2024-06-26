@@ -5,4 +5,5 @@ The aim of this project is to analyse the effect of an inertia update strategy a
 It is based on the results of the paper: N. Franken and A. P. Engelbrecht, "Investigating binary PSO parameter influence on the knights cover problem," 2005 IEEE Congress on Evolutionary Computation, Edinburgh, UK, 2005, pp. 282-289 Vol.1, doi: 10.1109/CEC.2005.1554696. [Link to paper]([https://link-url-here.org](https://ieeexplore.ieee.org/document/1554696))
 
 To run the experiments, execute the cells in **notebook.ipynb**. If you only want to view the results I obtained, run only the cells under the **Result Visualisation** section.
+Refer to the notebook file for more information. The **project_report.pdf** summarises the results of the experiments using the plots generated in the notebook file.
 
